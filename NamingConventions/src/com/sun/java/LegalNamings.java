@@ -28,7 +28,7 @@ public class LegalNamings {
 		LegalNamings legalNamings = new LegalNamings();
 		legalNamings.firstMethod();
 		/*
-		 * Illegal declarations 
+		 * Illegal variable declarations 
 		 * String .7; 
 		 * char 7g; 
 		 * boolean e#; 
