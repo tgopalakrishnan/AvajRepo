@@ -28,12 +28,21 @@ public class LegalNamings {
 		LegalNamings legalNamings = new LegalNamings();
 		legalNamings.firstMethod();
 		/*
+<<<<<<< HEAD
 		 * Illegal declarations 
 		 * public		static		String		.7; 
 		 * private		char		7g; 
 		 * private		boolean		e#; 
 		 * private		float		:k; 
 		 * private		char		-j;
+=======
+		 * Illegal variable declarations 
+		 * String .7; 
+		 * char 7g; 
+		 * boolean e#; 
+		 * float :k; 
+		 * char -j;
+>>>>>>> 737e02578643b95a6fd45cc2dbd06b66936c4523
 		 */
 
 		// COMPILATION ERROR OCCURED FOR ABOVE ILLEGAL DECLARARIONS
