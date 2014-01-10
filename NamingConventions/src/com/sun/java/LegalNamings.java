@@ -2,11 +2,11 @@ package com.sun.java;
 
 public class LegalNamings {
 	// Legal names
-	public static final int _a = 10; /*public variables declaration comes first*/
-	private double how_much_long_u_want_u_can_create_a_variable_name;/*private/default variables declaration next*/
-	private final int ___2_w = 20;
-	private static String $c = "string data type.";
-	private static long _$ = 244444777;
+	public		static		final	int	_a = 10; /*public variables declaration comes first*/
+	private		double		how_much_long_u_want_u_can_create_a_variable_name;/*private/default variables declaration next*/
+	private		final		int ___2_w = 20;
+	private		static		String $c = "string data type.";
+	private		static		long _$ = 244444777;
 
 	public LegalNamings() {/*variables declarations followed by constructors*/
 		how_much_long_u_want_u_can_create_a_variable_name = 7.99;
@@ -29,11 +29,11 @@ public class LegalNamings {
 		legalNamings.firstMethod();
 		/*
 		 * Illegal declarations 
-		 * String .7; 
-		 * char 7g; 
-		 * boolean e#; 
-		 * float :k; 
-		 * char -j;
+		 * public		static		String		.7; 
+		 * private		char		7g; 
+		 * private		boolean		e#; 
+		 * private		float		:k; 
+		 * private		char		-j;
 		 */
 
 		// COMPILATION ERROR OCCURED FOR ABOVE ILLEGAL DECLARARIONS
