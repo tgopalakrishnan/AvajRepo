@@ -1,2 +1,2 @@
 
-Test checkin fronm Source tree
+Test check-in from Source tree client
